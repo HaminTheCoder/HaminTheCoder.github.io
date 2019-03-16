@@ -84,48 +84,60 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Toronto, Toronto, ON",
+      "area": "Statistics (expected November, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Artemis Complaints",
+      "position": "Front end Developer",
+      "website": "http://www.artemis-complaints.herokuapp.com/",
+      "startDate": "2019-01-03",
+      "endDate": "present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Angular JS Front-end Developer",
+        
+      ]
+    },
+    {
+      "company": "Circle",
+      "position": "Full-Stack Developer",
+      "website": "http://www.circleforinfluencers.herokuapp.com/",
+      "startDate": "2018-05-03",
+      "endDate": "2018-09-01",
+      "summary": "",
+      "highlights": [
+        "Built a Full-Stack website targeted at social influencers and advertisers",
+        "Built using MERN stack",
+        "Maintain custom data collection and storage infrastructure"
+        
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "EON",
       "website": "",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Vice President of IT",
+      "startDate": "2014-09-01",
+      "endDate": "2015-05-01",
+      "summary": "Led around 50 student employees. Responsible for web development and social media marketing",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Led around 50 student employees.",
+        "Responsible for web development and social media marketing"
+
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
   ],
   "awards": [
     {
