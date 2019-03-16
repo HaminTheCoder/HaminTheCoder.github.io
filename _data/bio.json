@@ -1,58 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hamin Lee",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://haminthecoder.github.io/images/hamin_lee.png",
+    "email": "hamin__lee@hotmail.com",
+    "phone": "647-999-1210",
+    "website": "https://haminthecoder.github.io",
+    "summary": "I am studying for a B.S. in Computer Science and Statistics in the Department of Computer Science at the University of Toronto. I expect to graduate in November, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "haminthecoder",
+        "url": "http://github.com/haminthecoder"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hamin-lee",
+        "url": "http://linkedin.com/in/hamin-lee"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Web & Mobile App Development"
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning & Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Stock Trading",
       "keywords": [
+      ]
+    },
+    {
+      "name": "Basketball",
+      "keywords": [
+        "Raptors", "Kawhi"
       ]
     }
   ],
@@ -61,12 +53,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "JavaScript",
+        "Python",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Angular/ Angular Material",
+        "SQL",
+        "WireShark"
       ]
     },
     {
@@ -75,18 +67,19 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
+        "Linux",
+        "Git/GitFlow",
         "g++",
-        "TI LaunchPad"
+        "npm, yarn"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Toronto, Toronto, ON",
+      "area": "Computer Science (expected November, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -94,18 +87,6 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -121,8 +102,8 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "",
+      "website": "",
       "position": "Software Developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
@@ -140,24 +121,24 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": ",
+      "summary": ""
     }
   ],
   "references": [
