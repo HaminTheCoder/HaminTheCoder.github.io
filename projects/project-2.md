@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/artemis-home-page.PNG
-title: Artemis Complaints
+title: Circle
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-05 - present
@@ -23,4 +23,4 @@ Cirlce is implemented using [MERN](http://mern.io/), a JavaScript application pl
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming with [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/), and [node.js](https://nodejs.org/ko/). 
  
-Source: <a href="https://artemis-complaints.herokuapp.com"></i>Artemis/artemis</a>
+Source: <a href="https://github.com/haminthecoder/circle-website"><i class="large github icon"></i>Circle/circle</a>
