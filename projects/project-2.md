@@ -1,25 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/circle-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
   - Javascript
-  - Meteor
+  - Express
   - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Git/GitFlow
+  - npm/yarn
+summary: A responsive MERN stack web application to connect social influencers with advertisers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/circle-homepage.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Circle is a MERN stack web application that I created(fully self-supervised), Summer 2018. The project helped me understand JSON data structure, full-stack development with deployment in the real-world, and plenty of JavaScript experience.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Cirlce is implemented using [MERN](http://mern.io/), a JavaScript application platform. The website has uses Validator and jwt tokens for login authentications. You can create/delete post and comments and also like each post and comments. This was done efficiently using [Redux](https://redux.js.org/) as a state management tool.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming with [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/), and [node.js](https://nodejs.org/ko/). 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/haminthecoder/circle-website"><i class="large github icon"></i>Circle/circle</a>
