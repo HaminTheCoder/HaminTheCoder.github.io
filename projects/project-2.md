@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cirlce-home-page.PNG
+image: images/circle-home-page.PNG
 title: Circle
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
