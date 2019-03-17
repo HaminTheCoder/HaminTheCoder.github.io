@@ -15,7 +15,7 @@ labels:
 summary: A responsive MERN stack web application to connect social influencers with advertisers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/circle-homepage.png">
+<img class="ui medium right floated rounded image" src="../images/circle-home-page.png">
 
 Circle is a MERN stack web application that I created(fully self-supervised), Summer 2018. The project helped me understand JSON data structure, full-stack development with deployment in the real-world, and plenty of JavaScript experience.
 
