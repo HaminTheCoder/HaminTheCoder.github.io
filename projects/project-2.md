@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/circle-home-page.PNG
-title: Circle
+image: images/artemis-home-page.PNG
+title: Artemis Complaints
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-03 - 2018-09-01
+date: 2019-01-05 - present
 labels:
   - Javascript
   - Express
@@ -15,7 +15,7 @@ labels:
 summary: A responsive MERN stack web application to connect social influencers with advertisers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/circle-home-page2.PNG">
+<img class="ui medium right floated rounded image" src="../images/artemis-home-page2.PNG">
 
 Circle is a MERN stack web application that I created(fully self-supervised), Summer 2018. The project helped me understand JSON data structure, full-stack development with deployment in the real-world, and plenty of JavaScript experience.
 
@@ -23,4 +23,4 @@ Cirlce is implemented using [MERN](http://mern.io/), a JavaScript application pl
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming with [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/), and [node.js](https://nodejs.org/ko/). 
  
-Source: <a href="https://github.com/haminthecoder/circle-website"><i class="large github icon"></i>Circle/circle</a>
+Source: <a href="https://artemis-complaints.herokuapp.com"></i>Artemis/artemis</a>
