@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/artemis-home-page.PNG
+image: images/cirlce-home-page.PNG
 title: Circle
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: A responsive MERN stack web application to connect social influencers with advertisers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/artemis-home-page2.PNG">
+<img class="ui medium right floated rounded image" src="../images/circle-home-page2.PNG">
 
 Circle is a MERN stack web application that I created(fully self-supervised), Summer 2018. The project helped me understand JSON data structure, full-stack development with deployment in the real-world, and plenty of JavaScript experience.
 
