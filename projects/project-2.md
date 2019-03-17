@@ -5,7 +5,7 @@ image: images/circle-home-page.PNG
 title: Circle
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-03 - 2018-09-01
 labels:
   - Javascript
   - Express
