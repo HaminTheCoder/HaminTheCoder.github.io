@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/circle-home-page.PNG
-title: Vacay
+title: Circle
 permalink: projects/circle
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
