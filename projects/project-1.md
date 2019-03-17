@@ -23,4 +23,4 @@ The website has provides the user with unique url keys to optimize the follow-up
 
 In this project I gained valuable experience with full-stack web development and associated technologies, including GitFlow, [Angular](http://angular.io) for front-end, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming with [Golang](https://golang.org/).
  
-Source: <a href="https://artemis-complaints.herokuapp.com"></i>Artemis/artemis</i>
+Source: <a href="https://artemis-complaints.herokuapp.com">Artemis/artemis</a>
