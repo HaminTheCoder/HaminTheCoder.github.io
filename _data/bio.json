@@ -3,7 +3,7 @@
     "name": "Hamin Lee",
     "label": "Student",
     "picture": "https://haminthecoder.github.io/images/hamin_lee.PNG",
-    "email": "hamin__lee@hotmail.com",
+    "email": "hamin-lee@outlook.com",
     "phone": "647-999-1210",
     "website": "https://haminthecoder.github.io",
     "summary": "I am studying for a B.S. in Computer Science and Statistics in the Department of Computer Science at the University of Toronto. I expect to graduate in November, 2019.",
@@ -34,6 +34,8 @@
     {
       "name": "Machine Learning & Data Mining",
       "keywords": [
+        "Python",
+        "SkLearn"
       ]
     },
     {
@@ -44,7 +46,6 @@
     {
       "name": "Basketball",
       "keywords": [
-        "Raptors", "Kawhi"
       ]
     }
   ],
@@ -77,18 +78,8 @@
   "education": [
     {
       "institution": "University of Toronto, Toronto, ON",
-      "area": "Computer Science (expected November, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Toronto, Toronto, ON",
-      "area": "Statistics (expected November, 2019)",
-      "studyType": "B.S.",
+      "area": "Computer Science, Statistics (expected November, 2019)",
+      "studyType": "Honours B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
@@ -106,8 +97,10 @@
       "summary": "",
       "highlights": [
         "Angular JS Front-end Developer",
-        
-      ]
+        "Mainly built with Angular and Go",
+        "Worked with RESTful API and currently working on implementing instant search for the website",
+        "Team follows Agile methodologies, namely Kanban, to optimize the workflow",
+        "Current product is an MVP(Minimum Viable Product) and final product will be released early April."
     },
     {
       "company": "Circle",
@@ -119,8 +112,8 @@
       "highlights": [
         "Built a Full-Stack website targeted at social influencers and advertisers",
         "Built using MERN stack",
-        "Maintain custom data collection and storage infrastructure"
-        
+        "Maintain custom data collection and storage infrastructure",
+        "Gained valuable experience to self-assign milestones and implementing features based on feedback"
       ]
     }
   ],
@@ -135,7 +128,6 @@
       "highlights": [
         "Led around 50 student employees.",
         "Responsible for web development and social media marketing"
-
       ]
     },
   ],
