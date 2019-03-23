@@ -101,6 +101,7 @@
         "Worked with RESTful API and currently working on implementing instant search for the website",
         "Team follows Agile methodologies, namely Kanban, to optimize the workflow",
         "Current product is an MVP(Minimum Viable Product) and final product will be released early April."
+        ],
     },
     {
       "company": "Circle",
@@ -130,14 +131,6 @@
         "Responsible for web development and social media marketing"
       ]
     },
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
   "references": [
     {
