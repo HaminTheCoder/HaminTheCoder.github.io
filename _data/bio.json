@@ -78,7 +78,7 @@
   "education": [
     {
       "institution": "University of Toronto, Toronto, ON",
-      "area": "Computer Science, Statistics (expected November, 2019)",
+      "area": "Computer Science, Statistics (expected grad November, 2019)",
       "studyType": "Honours B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
@@ -106,7 +106,7 @@
     {
       "company": "Circle",
       "position": "Full-Stack Developer",
-      "website": "https://circleforinfluencers.herokuapp.com//",
+      "website": "https://circleforinfluencers.herokuapp.com/",
       "startDate": "2018-05-03",
       "endDate": "2018-09-01",
       "summary": "Website to connect social influencers and advertisersd",
