@@ -91,29 +91,29 @@
     {
       "company": "Artemis Complaints",
       "position": "Front end Developer",
-      "website": "http://www.artemis-complaints.herokuapp.com/",
+      "website": "https://artemis-complaints.herokuapp.com/",
       "startDate": "2019-01-03",
       "endDate": "present",
-      "summary": "",
+      "summary": "Anonymous workplace complaint platform",
       "highlights": [
         "Angular JS Front-end Developer",
         "Mainly built with Angular and Go",
         "Worked with RESTful API and currently working on implementing instant search for the website",
-        "Team follows Agile methodologies, namely Kanban, to optimize the workflow",
+        "Team follows Agile methodologies, namely Scrum, to optimize the workflow",
         "Current product is an MVP(Minimum Viable Product) and final product will be released early April."
         ],
     },
     {
       "company": "Circle",
       "position": "Full-Stack Developer",
-      "website": "http://www.circleforinfluencers.herokuapp.com/",
+      "website": "https://circleforinfluencers.herokuapp.com//",
       "startDate": "2018-05-03",
       "endDate": "2018-09-01",
-      "summary": "",
+      "summary": "Website to connect social influencers and advertisersd",
       "highlights": [
-        "Built a Full-Stack website targeted at social influencers and advertisers",
         "Built using MERN stack",
-        "Maintain custom data collection and storage infrastructure",
+        "Used MongoDB, a NoSQL database, to manage complex data",
+        "Fully self-supervised, used version-control(GitFlow), product management, and Agile methodologies to optimize workflow",
         "Gained valuable experience to self-assign milestones and implementing features based on feedback"
       ]
     },
