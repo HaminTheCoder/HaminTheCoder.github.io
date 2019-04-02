@@ -1,26 +1,46 @@
 ---
 layout: project
 type: project
-image: images/circle-home-page.PNG
-title: Circle
-permalink: projects/circle
-# All dates must be YYYY-MM-DD format!
-date: 2019-01-05 - present
+image: images/RTT.PNG
+title: RTT(Round Trip Time) Estimation in the Real world
+permalink: projects/rtt
+date: 2018-05-01 - present
 labels:
-  - Javascript
-  - Express
+  - Python
+  - WireShark
   - MongoDB
   - Git/GitFlow
   - npm/yarn
-summary: A responsive MERN stack web application to connect social influencers with advertisers.
+summary: A report estimate Round Trip Time for Link, Network, and Transport Layer
 ---
 
-<img class="ui medium right floated rounded image" src="../images/circle-home-page2.PNG">
+<img class="ui medium right floated rounded image" src="../images/RTT.PNG">
 
-Circle is a MERN stack web application that I created(fully self-supervised), Summer 2018. The project helped me understand JSON data structure, full-stack development with deployment in the real-world, and plenty of JavaScript experience.
+In this report, we perform critical analysis on Per-Pack Statistics(Packet Size and Packet Header Size), 
+Per-Flow Statistics(Flow Type, Flow Duration), TCP Overhead Ratio(Hit Ratio), Inter-Packet Arrival Time, and lastly 
+Round Trip Time estimation.
 
-Cirlce is implemented using [MERN](http://mern.io/), a JavaScript application platform. The website has uses Validator and jwt tokens for login authentications. You can create/delete post and comments and also like each post and comments. This was done efficiently using [Redux](https://redux.js.org/) as a state management tool.
+The estimated RTT is stable because according to algorithm from RFC6298, our "a" is small enough to be negligible 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming with [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/), and [node.js](https://nodejs.org/ko/). 
+RTT is influenced by various factors that we derived from this report. 
+
+1) Distance 
+
+        The distance a signal has to travel directly correlates to the time taken for request    
+        
+2) Transmission Medium
+
+        Type of medium use to route a connection can impact the RTT
+        
+3) Number of network hops
+
+        Intermediate routers and servers takes time to process the connection which causes RTT to increase. 
+        More hops implies higher RTT.
+        
+4) Traffic Levels (Congestion)
+
+    RTT increases when a network is congested with high level of traffic, vice versa.
+       
+
  
-Source: <a href="https://github.com/haminthecoder/circle-website"><i class="large github icon"></i>Circle / </a><a href="https://circleforinfluencers.herokuapp.com/">Website</a> 
+Source: <a href="https://github.com/haminthecoder/RTT-Estimation"><i class="large github icon"></i>RTT Estimation</a>
