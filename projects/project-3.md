@@ -12,7 +12,7 @@ labels:
 summary: A report estimate Round Trip Time for Link, Network, and Transport Layer
 ---
 
-<img class="ui medium right floated rounded image" src="../images/RTT.PNG">
+<img class="ui medium right floated rounded image" src="../images/RTT-est.PNG">
 
 In this report, we perform critical analysis on Per-Pack Statistics(Packet Size and Packet Header Size), 
 Per-Flow Statistics(Flow Type, Flow Duration), TCP Overhead Ratio(Hit Ratio), Inter-Packet Arrival Time, and lastly 
@@ -24,7 +24,8 @@ RTT is influenced by various factors that we derived from this report.
 
 1) Distance 
 
-        The distance a signal has to travel directly correlates to the time taken for request    
+        The distance a signal has to travel directly correlates to
+         the time taken for request    
         
 2) Transmission Medium
 
@@ -32,12 +33,13 @@ RTT is influenced by various factors that we derived from this report.
         
 3) Number of network hops
 
-        Intermediate routers and servers takes time to process the connection which causes RTT to increase. 
+        Intermediate routers and servers takes time to process the 
+        connection which causes RTT to increase. 
         More hops implies higher RTT.
         
 4) Traffic Levels (Congestion)
 
-    RTT increases when a network is congested with high level of traffic, vice versa.
+    RTT increases when a network is congested with high level of traffic.
        
 
  
