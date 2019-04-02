@@ -89,18 +89,21 @@
   ],
   "work": [
     {
-      "company": "Artemis Complaints",
+      "company": "Artemis",
       "position": "Front end Developer",
       "website": "https://artemis-complaints.herokuapp.com/",
       "startDate": "2019-01-03",
       "endDate": "present",
-      "summary": "Anonymous workplace complaint platform",
+      "summary": "A platform that allows public and anonymous posting of workplace harassment complaints.",
       "highlights": [
-        "Angular JS Front-end Developer",
-        "Mainly built with Angular and Go",
-        "Worked with RESTful API and currently working on implementing instant search for the website",
-        "Team follows Agile methodologies, namely Scrum, to optimize the workflow",
-        "Current product is an MVP(Minimum Viable Product) and final product will be released early April."
+        "Angular with Angular Material component library and Typescript",
+        "REST HTTP API running on a server written in Go",
+        "Persistence in PostgreSQL relational database",
+        "Designed User-friendly UI using Angular Material",
+        "GitFlow workflow was used, master->develop->feature branch", 
+        "Pull Requests was used for code review",
+        "Artemis is an MVP(Minimum Viable Product)",
+        "Deployed on Heroku Dynos using Docker containers for testability and portability"
         ],
     },
     {
@@ -109,12 +112,13 @@
       "website": "https://circleforinfluencers.herokuapp.com/",
       "startDate": "2018-05-03",
       "endDate": "2018-09-01",
-      "summary": "Website to connect social influencers and advertisersd",
+      "summary": "Social Network that connects social influencers with advertisers",
       "highlights": [
-        "Built using MERN stack",
-        "Used MongoDB, a NoSQL database, to manage complex data",
-        "Fully self-supervised, used version-control(GitFlow), product management, and Agile methodologies to optimize workflow",
-        "Gained valuable experience to self-assign milestones and implementing features based on feedback"
+        "Built a MERN web application fully self-supervised",
+        "Implemented front-end using React/Redux and Bootstrap components",
+        "Implemented back-end using Express and implemented multiple API endpoints and service calls for serialization and persistence",
+        "Implemented server using Node.js and NoSQL database using MongoDB",
+        "Has posting, commenting, authentications, like/dislike posts (using Redux Store)  functionalities"
       ]
     },
   ],
@@ -127,7 +131,7 @@
       "endDate": "2015-05-01",
       "summary": "EON is an award winning Junior Achievement Company",
       "highlights": [
-        "Led around 50 student employees.",
+        "Led around 50 student employees in a student-ran Junior Achievement company.",
         "Responsible for web development and social media marketing"
       ]
     },
