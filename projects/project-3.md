@@ -39,8 +39,9 @@ RTT is influenced by various factors that we derived from this report.
         
 4) Traffic Levels (Congestion)
 
-    RTT increases when a network is congested with high level of traffic.
+        RTT increases when a network is congested with high level of traffic.
        
+More detailed information can be found [here](https://github.com/haminthecoder/RTT-Estimation/blob/master/RTT%20Estimation%20in%20Real%20World.pdf)
 
  
 Source: <a href="https://github.com/haminthecoder/RTT-Estimation"><i class="large github icon"></i>RTT Estimation</a>
