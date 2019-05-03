@@ -17,13 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "haminthecoder",
+        "username": "Hamin Lee GitHub",
         "url": "http://github.com/haminthecoder"
       },
       {
         "network": "linkedin",
-        "username": "hamin-lee",
+        "username": "Hamin Lee LinkedIn",
         "url": "http://linkedin.com/in/hamin-lee"
+      },
+      {
+        "network": "github",
+        "username": "Personal Blog",
+        "url": "http://trn478.github.io"
       }
     ]
   },
