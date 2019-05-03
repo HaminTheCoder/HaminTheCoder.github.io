@@ -104,7 +104,6 @@
         "Designed User-friendly UI using Angular Material",
         "GitFlow workflow was used, master->develop->feature branch", 
         "Pull Requests was used for code review",
-        "Artemis is an MVP(Minimum Viable Product)",
         "Deployed on Heroku Dynos using Docker containers for testability and portability",
         "Used WebStorm IDE  to ensure high cohesion, and minimize duplicate code"
         ],
