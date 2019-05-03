@@ -57,6 +57,8 @@
         "JavaScript",
         "Python",
         "Java",
+        "React",
+        "React Native Web",
         "Angular/ Angular Material",
         "SQL",
         "WireShark"
@@ -103,7 +105,8 @@
         "GitFlow workflow was used, master->develop->feature branch", 
         "Pull Requests was used for code review",
         "Artemis is an MVP(Minimum Viable Product)",
-        "Deployed on Heroku Dynos using Docker containers for testability and portability"
+        "Deployed on Heroku Dynos using Docker containers for testability and portability",
+        "Used WebStorm IDE  to ensure high cohesion, and minimize duplicate code"
         ],
     },
     {
@@ -121,6 +124,49 @@
         "Has posting, commenting, authentications, like/dislike posts (using Redux Store)  functionalities"
       ]
     },
+    {
+      "company": "Workout Planner",
+      "position": "React Native Web Developer",
+      "website": "https://github.com/haminthecoder/workout-planner",
+      "startDate": "2019-04-24",
+      "endDate": "present",
+      "summary": "A simple workout planner built using React Native Web.",
+      "highlights": [
+        "A simple workout planner built using React Native Web." 
+        "Cross platform (iOS, Android, Web)"
+        "State Management using Mobx, Programming Language using TypeScript, Routing using React Navigation"
+        "Used React Hooks instead of classes",
+        "Uses yarn workspace instead of npm"
+      ]
+    },
+    {
+      "company": "RTT Estimation in the Real World",
+      "position": "Python/WireShark Developer",
+      "website": "https://github.com/haminthecoder/RTT-Estimation",
+      "startDate": "2018-10-01",
+      "endDate": "2018-12-23",
+      "summary": "A research on Round Trip Time in the Real World",
+      "highlights": [
+        "Analyzed Round Trip Time(RTT) Estimation in the real world.",
+        "Estimated RTT by analyzing per-packet statistics and per-flow statistics of IP, ARP, TCP, UDP, Ethernet Protocols.",
+        "Used Python, WireShark"
+      ]
+    },
+    {
+      "company": "Pizza Delivery CLI",
+      "position": "Java Developer",
+      "website": "https://github.com/haminthecoder/pizza-delivery-cli",
+      "startDate": "2019-03-01",
+      "endDate": "2019-03-15",
+      "summary": "A simple pizza delivery CLI",
+      "highlights": [
+        "A pizza delivery CLI using Java using Maven",
+        "Used Abstract Factory Method Design Pattern",
+        "Used IntelliJ IDE to ensure high cohesion, and minimize duplicate code"
+      ]
+    },
+    
+  
   ],
   "volunteer": [
     {
