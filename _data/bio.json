@@ -106,7 +106,7 @@
         "Pull Requests was used for code review",
         "Deployed on Heroku Dynos using Docker containers for testability and portability",
         "Used WebStorm IDE  to ensure high cohesion, and minimize duplicate code"
-        ],
+        ]
     },
     {
       "company": "Circle",
@@ -131,9 +131,9 @@
       "endDate": "present",
       "summary": "A simple workout planner built using React Native Web.",
       "highlights": [
-        "A simple workout planner built using React Native Web." 
-        "Cross platform (iOS, Android, Web)"
-        "State Management using Mobx, Programming Language using TypeScript, Routing using React Navigation"
+        "A simple workout planner built using React Native Web.",
+        "Cross platform (iOS, Android, Web)",
+        "State Management using Mobx, Programming Language using TypeScript, Routing using React Navigation",
         "Used React Hooks instead of classes",
         "Uses yarn workspace instead of npm"
       ]
@@ -163,9 +163,7 @@
         "Used Abstract Factory Method Design Pattern",
         "Used IntelliJ IDE to ensure high cohesion, and minimize duplicate code"
       ]
-    },
-    
-  
+    }
   ],
   "volunteer": [
     {
@@ -179,7 +177,7 @@
         "Led around 50 student employees in a student-ran Junior Achievement company.",
         "Responsible for web development and social media marketing"
       ]
-    },
+    }
   ],
   "references": [
     {
