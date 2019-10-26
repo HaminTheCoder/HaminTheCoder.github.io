@@ -57,28 +57,24 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Prior Experience/Proficient",
       "keywords": [
-        "JavaScript",
-        "Python",
+        "Python, Django",
+        "JavaScript, React/Angular",
+        "HTML/CSS",
         "Java",
-        "React",
-        "React Native Web",
-        "Angular/ Angular Material",
-        "SQL",
+        "C/C#",
         "WireShark"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Linux",
-        "Git/GitFlow",
-        "g++",
-        "npm, yarn"
+        "Git",
+        "npm, pip, yarn"
       ]
     }
   ],
@@ -100,7 +96,7 @@
       "position": "Front end Developer",
       "website": "https://artemis-complaints.herokuapp.com/",
       "startDate": "2019-01-03",
-      "endDate": "present",
+      "endDate": "",
       "summary": "A platform that allows public and anonymous posting of workplace harassment complaints.",
       "highlights": [
         "Angular with Angular Material component library and Typescript",
@@ -133,7 +129,7 @@
       "position": "React Native Web Developer",
       "website": "https://github.com/haminthecoder/workout-planner",
       "startDate": "2019-04-24",
-      "endDate": "present",
+      "endDate": "",
       "summary": "A simple workout planner built using React Native Web.",
       "highlights": [
         "A simple workout planner built using React Native Web.",
