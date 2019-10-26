@@ -1,0 +1,74 @@
+.signin-main-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+
+}
+
+.signin-text {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.accent-text {
+    color: #61FF8D;
+    font-size: 6rem;
+}
+
+.signin-form {
+    background: linear-gradient(180deg, #807B7B 0%, #F9B25E 100%);
+    border-radius: 30px;
+    width: 50vw;
+    max-width: 50%;
+    padding: 2rem 4rem;
+    border-radius: 20px;
+    margin-left: 15px;
+}
+
+.btn {
+    background: #4DAFE7;
+    border-radius: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.input-group {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    font-weight: bold;
+    margin-bottom: .5rem;
+}
+
+.input-group input {
+    outline: none;
+    background: none;
+    border: 1px solid #ffffff;
+    font-size: 1rem;
+    padding: 0.5rem;
+    color: inherit;
+    border-radius: 7px
+}
+
+
+.input-group:last-child {
+    margin-bottom: 0;
+}
+
+body {
+    background-image: url('../images/background2.jpg');
+    background-size: cover;
+}
+
+@media (max-width:1200px) {
+    body {
+        background-image: url('../images/background2.jpg');
+    }
+    .home-contact-section {
+        justify-content: center;
+    }
+}

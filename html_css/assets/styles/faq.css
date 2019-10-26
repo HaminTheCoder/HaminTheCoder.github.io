@@ -1,0 +1,14 @@
+.frequently-asked {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;   
+}
+
+.faq-text h1{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
