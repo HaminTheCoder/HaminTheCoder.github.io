@@ -4,11 +4,10 @@ type: project
 image: images/RTT.PNG
 title: RTT(Round Trip Time) Estimation in the Real world
 permalink: projects/rtt
-date: 2018-05-01 - present
+date: 2019-01-01
 labels:
   - Python
   - WireShark
-  - Git/yarn/pip
 summary: A report estimate Round Trip Time for Link, Network, and Transport Layer
 ---
 
