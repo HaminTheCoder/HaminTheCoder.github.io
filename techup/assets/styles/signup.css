@@ -3,7 +3,14 @@
     justify-content: space-between;
     align-items: center;
     flex-grow: 1;
+}
 
+.body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    margin-top: 10px;
+    padding: 1.3rem auto;
 }
 
 .signin-text {
@@ -70,5 +77,35 @@ body {
     }
     .home-contact-section {
         justify-content: center;
+    }
+}
+
+@media (max-width: 850px) {
+    .signin-text {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+    .accent-text {
+        color: #61FF8D;
+        font-size: 2.6rem;
+    }
+    .signin-form {
+        padding: 0.5rem 1rem;
+        border-radius: 12px;
+        margin-left: 4px;
+    }
+    
+    .btn {
+        border-radius: 12px;
+        font-size: 1rem;
+    }
+    
+    .input-group {
+        margin-bottom: 3rem;
+    }
+    
+    .input-group input {
+        font-size: 1rem;
+        padding: 0.25rem;
     }
 }

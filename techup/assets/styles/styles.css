@@ -27,6 +27,7 @@ body {
     /* 1 rem = 16 pixels */
     font-size: 1.2rem;
     color: #ffffff;
+    width: 100%;
     /* vh = view height */
     min-height: 100vh;
 }
@@ -42,7 +43,7 @@ body {
 }
 
 .brand-logo-name {
-    margin-left: 1rem;
+    margin-left: 0.7rem;
 }
 
 .brand-logo-name:hover {
@@ -54,6 +55,7 @@ body {
     margin: 0;
     padding: 0;
     list-style: none;
+    width:100%;
 }
 
 .main-nav a, .footer-nav a{
@@ -126,4 +128,39 @@ body {
 .btn:hover {
     color: #ffffff;
     background-color: black
+}
+
+@media (max-width: 700px) {
+    .container {
+        max-width: 700px;
+        padding: 0 15px;
+    }
+
+    .btn {
+        padding: 0.5rem 1rem; 
+        margin-right: 0.4rem;
+        font-size: 0.9rem;
+    }
+    
+    .main-nav a {
+        font-size: 0.7rem;
+    }
+    .main-fooååter a {
+        font-size: 1rem;
+    }
+
+    .brand-logo {
+        font-size: 0.7rem;
+        padding: 0.1rem;
+        size: 0.7rem;
+    }
+    
+    .brand-logo img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .brand-logo-name {
+        font-size: 0.7rem;
+    }
 }
